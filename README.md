@@ -22,3 +22,6 @@ A fully functional **stopwatch web application** with start, stop, reset, and la
 2. **Reset:** Click the **Reset** button to set the time back to **00:00:00:00**.  
 3. **Lap:** Click the **Lap** button to record the current time. Laps appear in a list below the stopwatch.  
 
+![image](https://github.com/user-attachments/assets/f60b1e17-c131-4f0f-a374-c0d05242341e)
+![image](https://github.com/user-attachments/assets/1ef8775a-0fa0-476c-8de5-c8cec8a37cc2)
+
